@@ -1,4 +1,3 @@
-import java.util.Locale;
 import java.text.DecimalFormat;
 
 public class GoodStudent
